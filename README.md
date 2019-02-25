@@ -1,8 +1,8 @@
 # Detecting Fires at plot-level in Haryana and Punjab
 
 These codes are included: <br />
-  1. One <br />
-  2. Two <br />
-  3. Three <br />
+  1. Merge_rasters.ipynb <br />
+  2. Reproject Rasters.ipynb <br />
+  3. Burn_Area_Index.ipynb <br />
   4. Four <br />
   5. Five <br />
