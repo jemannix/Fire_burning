@@ -1,5 +1,7 @@
 # Detecting Fires at plot-level in Haryana and Punjab
 
+An open source python code to detect plot-level burn in India using Planet Labs Imagery.
+
 These codes are included: <br />
   1. search_and_download_quickstart.ipynb <br />
   2. Merge_function.ipynb <br />
