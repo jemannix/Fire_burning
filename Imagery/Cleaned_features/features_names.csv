@@ -1,0 +1,9 @@
+band,feature_name
+1,baireproj__maximum
+2,baireproj__mean
+3,baireproj__mean_abs_change
+4,baireproj__mean_change
+5,baireproj__median
+6,baireproj__minimum
+7,baireproj__standard_deviation
+8,baireproj__sum_values
